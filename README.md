@@ -12,10 +12,12 @@ Apple Developer Academy @ POSTECH (2022.03.14 ~ 2022.12.13)
 PERSONAL PROJECT
 
 iOS APP [MyStarryCompanion](https://apps.apple.com/app/mystarrycompanion/id6448020400) : Programmer(SwiftUI)
+
 iOS APP [간식버는 고양이 게임](https://apps.apple.com/app/%EA%B3%A0%EC%96%91%EC%9D%B4-%EA%B0%84%EC%8B%9D-%EB%B2%84%EB%8A%94-%EA%B2%8C%EC%9E%84/id1633181833) : Programmer(SwiftUI, UIKit)
 TEAM PROJECT
 
 iOS APP [Kloudy] : Programmer(UIKit)
+
 iOS APP [찾아라 동물 친구들](https://apps.apple.com/us/app/%EC%B0%BE%EC%95%84%EB%9D%BC-%EB%8F%99%EB%AC%BC-%EC%B9%9C%EA%B5%AC%EB%93%A4/id1637035482) : Team Leader, Planner, Programmer(UIKit)
 
 <!--
