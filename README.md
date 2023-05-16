@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 안녕하세요. 도전을 즐기는 개발자 변진하입니다.
+🔭 [안녕하세요. **도전**을 즐기는 개발자 변진하입니다.](https://drive.google.com/file/d/1qRx5VZonCMPSOLt7Y0J-Za6xs4YSVAGk/view?usp=sharing)
 
 --------------------
 
@@ -14,19 +14,20 @@
 
 Apple Developer Academy @ POSTECH (2022.03.14 ~ 2022.12.13)
 
+
 ### 📱iOS Release
 --------------------
 
-PERSONAL PROJECT
+***PERSONAL PROJECT***
 
-[MyStarryCompanion](https://apps.apple.com/app/mystarrycompanion/id6448020400) : Programmer(SwiftUI)
+[MyStarryCompanion](https://apps.apple.com/app/mystarrycompanion/id6448020400) : Programmer(SwiftUI), Planner, Designer
 
-[간식버는 고양이 게임](https://apps.apple.com/app/%EA%B3%A0%EC%96%91%EC%9D%B4-%EA%B0%84%EC%8B%9D-%EB%B2%84%EB%8A%94-%EA%B2%8C%EC%9E%84/id1633181833) : Programmer(SwiftUI, UIKit)
+[간식버는 고양이 게임](https://apps.apple.com/app/%EA%B3%A0%EC%96%91%EC%9D%B4-%EA%B0%84%EC%8B%9D-%EB%B2%84%EB%8A%94-%EA%B2%8C%EC%9E%84/id1633181833) : Programmer(SwiftUI, UIKit), Planner, Designer
 
 --------------------
-TEAM PROJECT
+***TEAM PROJECT***
 
-Kloudy : Programmer(UIKit)
+[구르미](https://apps.apple.com/kr/app/kloudy-charactercheck-weather/id6444051667) : Programmer(UIKit)
 
 [찾아라 동물 친구들](https://apps.apple.com/us/app/%EC%B0%BE%EC%95%84%EB%9D%BC-%EB%8F%99%EB%AC%BC-%EC%B9%9C%EA%B5%AC%EB%93%A4/id1637035482) : Team Leader, Planner, Programmer(UIKit)
 
