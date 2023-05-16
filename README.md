@@ -26,7 +26,7 @@ PERSONAL PROJECT
 --------------------
 TEAM PROJECT
 
-[Kloudy] : Programmer(UIKit)
+Kloudy : Programmer(UIKit)
 
 [찾아라 동물 친구들](https://apps.apple.com/us/app/%EC%B0%BE%EC%95%84%EB%9D%BC-%EB%8F%99%EB%AC%BC-%EC%B9%9C%EA%B5%AC%EB%93%A4/id1637035482) : Team Leader, Planner, Programmer(UIKit)
 
