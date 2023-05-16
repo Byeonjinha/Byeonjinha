@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🔭 [안녕하세요. **도전**을 즐기는 개발자 변진하입니다.](https://drive.google.com/file/d/1qRx5VZonCMPSOLt7Y0J-Za6xs4YSVAGk/view?usp=sharing)
-
---------------------
+🔭 [안녕하세요. **도전**을 즐기는 개발자 변진하입니다.](https://drive.google.com/file/d/1qRx5VZonCMPSOLt7Y0J-Za6xs4YSVAGk/view?usp=sharing)  
+  <br>
+   
+  
 
 ### 💬 About me
 --------------------
@@ -14,6 +15,8 @@
 
 Apple Developer Academy @ POSTECH (2022.03.14 ~ 2022.12.13)
 
+
+  <br>
 
 ### 📱iOS Release
 --------------------
